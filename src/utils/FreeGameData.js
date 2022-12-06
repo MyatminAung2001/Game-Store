@@ -1,0 +1,50 @@
+export const freeGames = [
+    {
+        id: 1,
+        title: "Rogue Company",
+        imageUrl: "https://i.ibb.co/PCTQJFk/Rogue-Compnay.png",
+        company: "Hi-Rez Studios",
+        type: "PS4",
+        price: "Download",
+    },
+    {
+        id: 2,
+        title: "Fortnite",
+        imageUrl: "https://i.ibb.co/S608cV1/Fortnite.png",
+        company: "Epic Games",
+        type: "PS5",
+        price: "Download",
+    },
+    {
+        id: 3,
+        title: "Genshin Impact",
+        imageUrl: "https://i.ibb.co/JCGvFf4/Genshin-Impact.png",
+        company: "miHoYo",
+        type: "PS4",
+        price: "Download",
+    },
+    {
+        id: 4,
+        title: "Rocket League",
+        imageUrl: "https://i.ibb.co/Y8x0XP1/Rocket-League.png",
+        company: "Epic Games",
+        type: "PS4",
+        price: "Download",
+    },
+    {
+        id: 5,
+        title: "Call of Duty: Warzone",
+        imageUrl: "https://i.ibb.co/2j0Rs7N/COD-Warzone.png",
+        company: "Activision  ",
+        type: "PS4",
+        price: "Download",
+    },
+    {
+        id: 6,
+        title: "Apex Legends",
+        imageUrl: "https://i.ibb.co/Y7XRtyY/Apex-Legends.png",
+        company: "EA",
+        type: "PS4",
+        price: "Download",
+    }
+]
